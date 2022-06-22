@@ -48,7 +48,7 @@ This project consists of the following steps:
 In this project, we choose the accuracy metric to measure the performance of a model because it is often used in a classification problem and works well for the well-balanced dataset as ours. It simply measures how often the classifier correctly predicts. We can define it as the ratio of the number of correct predictions and the total number of predictions.
 
 <div style="text-align:center">
-<img src="static/metric.PNG" alt="drawing" width="300"/>
+<img src="static/metric.png" alt="drawing" width="300"/>
 </div>
 
 ## 1.4 Exploratory Data Analysis <a name='EDA'></a>
